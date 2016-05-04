@@ -4,8 +4,15 @@
         <description><![CDATA[evolutionary sparks]]></description>
         <link>https://thegrid.ai/evolutionary-sparks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 22:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 22:53:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/evolutionary-sparks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“All of the processing of life you do, every word you speak, every thought you think and every breath you take, is done on behalf of humanity, on behalf of consciousness, on behalf of the universe, and for evolution itself.”</p>]]></description>
+            <link>https://thegrid.ai/evolutionary-sparks/all-of-the-processing-of-life-you-do-every-word-you-speak/index.html</link>
+            <guid isPermaLink="false">aa58ee1d-d40c-41b2-a661-7c61ebb868e3</guid>
+            <pubDate>Wed, 04 May 2016 22:53:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"Your future wants to speak through you. Let it."</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/evolutionary-sparks/httpevolveyourlifeorg/index.html</link>
             <guid isPermaLink="false">bfbfb6df-c3fd-4948-96d5-47dfb0c4df9b</guid>
             <pubDate>Wed, 04 May 2016 22:49:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9344d276-0eed-4f95-a139-4b2579e38792.jpg">]]></description>
-            <link>https://thegrid.ai/evolutionary-sparks/02138725-c4ce-4db9-a383-7591a380892a/index.html</link>
-            <guid isPermaLink="false">02138725-c4ce-4db9-a383-7591a380892a</guid>
-            <pubDate>Wed, 04 May 2016 22:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

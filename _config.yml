@@ -1,6 +1,6 @@
 name: evolutionary sparks
 favicon: null
-layout_spectrum: 0.96922
+layout_spectrum: 0.49521
 typography_spectrum: 0.16631
 title: evolutionary sparks
 cta:
@@ -22,8 +22,8 @@ color:
     - '#5587c6'
     - '#ced6e0'
     - '#725f4f'
-  brandStrength: 0.5
-  lightness: 0.375
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []

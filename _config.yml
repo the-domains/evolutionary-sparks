@@ -1,20 +1,4 @@
-name: evolutionary sparks
-favicon: null
-layout_spectrum: 0.49521
 typography_spectrum: 0.16631
-title: evolutionary sparks
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,25 @@ color:
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49521
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: evolutionary sparks
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Buy the book
+    url: >-
+      https://www.amazon.com/Evolve-Your-Life-Conscious-Evolution/dp/1683090004/ref=sr_1_1?ie=UTF8&qid=1472650112&sr=8-1&keywords=evolve+your+life
+    type: external
+favicon: null
+title: evolutionary sparks
 purpose: []

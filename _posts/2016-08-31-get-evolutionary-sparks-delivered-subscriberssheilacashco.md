@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T22:52:35.452Z'
+datePublished: '2016-08-31T22:53:16.751Z'
+sourcePath: _posts/2016-08-31-get-evolutionary-sparks-delivered-subscriberssheilacashco.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:52:29.198Z'
+dateModified: '2016-08-31T22:53:16.443Z'
 title: ''
 publisher: {}
-description: 'Get Evolutionary Sparks delivered: subscribers@sheilacash.com'
+description: 'Get Evolutionary Sparks delivered: '
 starred: true
-sourcePath: _posts/2016-08-31-get-evolutionary-sparks-delivered-subscriberssheilacashco.md
 _type: Blurb
 
 ---
-Get Evolutionary Sparks delivered: subscribers@sheilacash.com
+Get Evolutionary Sparks delivered: 
+
+subscribers@sheilacash.com
